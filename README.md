@@ -12,4 +12,4 @@ The script will generate a folder "extracted" within the same directory.
 
 ----
 Questions:
-mail@flobeyer.tk
+mail@flobeyer.de
